@@ -2,6 +2,9 @@ import React from "react";
 import Navbar from "./components/navbar";
 import Footer from "./components/Footer";
 import HomePage from "./components/HomePage";
+import AboutMe from "./components/AboutMe";
+import Project from "./components/Project";
+import Contact from "./components/Contact";
 
 export default function App() {
     return <>
@@ -15,7 +18,11 @@ export default function App() {
             <Navbar />
             <HomePage />
             
+            
         </div>
+        <AboutMe />
+        <Project />
+        <Contact />
         
         <Footer />
     </>

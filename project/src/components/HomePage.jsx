@@ -1,6 +1,5 @@
 function HomePage() {
     return <>
-        <div>
         <section class="slider_section ">
             <div id="customCarousel1" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
@@ -10,11 +9,11 @@ function HomePage() {
                                 <div class="col-md-6 ">
                                     <div class="detail-box">
                                         <h1>
-                                            Crypto <br>
-                                                Currency
+                                            About Me <br/>
+                                                
                                         </h1>
                                         <p>
-                                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                                        My name is Martin Castaneda. I have a B.S in Computer Science from the University of La Verne, I am based out in Los Angeles, CA. Growing up I had a passion for technology and computers always fascinated me. This led me into wanting to pursue programming.
                                         </p>
                                         <div class="btn-box">
                                             <a href="" class="btn1">
@@ -25,7 +24,7 @@ function HomePage() {
                                 </div>
                                 <div class="col-md-6">
                                     <div class="img-box">
-                                        <img src="images/slider-img.png" alt="">
+                                        <img src="images/pictureOfMartin.png" alt="Picture of Martin"/>
                                     </div>
                                 </div>
                             </div>
@@ -37,11 +36,11 @@ function HomePage() {
                                 <div class="col-md-6 ">
                                     <div class="detail-box">
                                         <h1>
-                                            Crypto <br>
-                                                Currency
+                                            Document Project <br/>
+                                                Manager
                                         </h1>
                                         <p>
-                                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                                        The document-project-manager application provides a destination for documents/images to be uploaded for others to provide input. Users can create a profile to make posts and comment on them.
                                         </p>
                                         <div class="btn-box">
                                             <a href="" class="btn1">
@@ -52,7 +51,7 @@ function HomePage() {
                                 </div>
                                 <div class="col-md-6">
                                     <div class="img-box">
-                                        <img src="images/slider-img.png" alt="">
+                                        <img src="images/documentProjectManager.png" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -64,11 +63,11 @@ function HomePage() {
                                 <div class="col-md-6 ">
                                     <div class="detail-box">
                                         <h1>
-                                            Crypto <br>
-                                                Currency
+                                            Note <br/>
+                                                Taker
                                         </h1>
                                         <p>
-                                            Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                                            Note Taker allows users to create and save notes when the application is launched.
                                         </p>
                                         <div class="btn-box">
                                             <a href="" class="btn1">
@@ -79,7 +78,7 @@ function HomePage() {
                                 </div>
                                 <div class="col-md-6">
                                     <div class="img-box">
-                                        <img src="images/slider-img.png" alt="">
+                                        <img src="images/Note-TakerApp.png" alt="Initial page of note taker application"/>
                                     </div>
                                 </div>
                             </div>
@@ -94,7 +93,6 @@ function HomePage() {
             </div>
 
         </section>
-        </div>
         </>
 };
 export default HomePage; 
