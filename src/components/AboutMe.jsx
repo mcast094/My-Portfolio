@@ -23,7 +23,7 @@ function AboutMe() {
                                     </h5>
                                     <p>
                                         Bachelor of Science: University of La Verne <br/> - Computer Science <br/>
-                                        Certificate: University of Irvine <br/> - Web Development
+                                        Certificate: UC Irvine <br/> - Web Development
                                     </p>
                                     {/* <a href="">
                                         Read More
