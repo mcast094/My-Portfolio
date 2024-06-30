@@ -8,7 +8,7 @@ function AboutMe() {
                             About <span>Me</span>
                         </h2>
                         <p>
-                        My name is Martin Castaneda. I have a B.S in Computer Science from the University of La Verne, I am based out in Los Angeles, CA. Growing up I had a passion for technology and computers always fascinated me. This led me into wanting to pursue programming.
+                        My name is Martin Castaneda. I have a B.S in Computer Science from the University of La Verne, I am based out in Los Angeles, CA. Growing up I had a passion for technology and computers always fascinated me. This led me into interest with IT and with programming.
                         </p>
                     </div>
                     <div class="row">
@@ -23,7 +23,7 @@ function AboutMe() {
                                     </h5>
                                     <p>
                                         Bachelor of Science: University of La Verne - Computer Science <br/>
-                                        Certificate: Univeristy of Irvine - <br/> Web Development
+                                        Certificate: University of Irvine - <br/> Web Development
                                     </p>
                                     {/* <a href="">
                                         Read More
@@ -42,7 +42,7 @@ function AboutMe() {
                                     </h5>
                                     <p>
                                         Programming
-                                        Technology 
+                                        Information Technology 
                                     </p>
                                     {/* <a href="">
                                         Read More
