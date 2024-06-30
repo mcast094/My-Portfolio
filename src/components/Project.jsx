@@ -42,7 +42,7 @@ function Project() {
                                         A website to upload files where you can share with others to get feedback on your work. 
                                     </p>
                                 </div>
-                                <a href="https://document-project-manager-43ce028ce2c1.herokuapp.com/">
+                                <a href="https://documentprojectmanager.onrender.com">
                                     Link to Website
                                 </a>
                             </div>
