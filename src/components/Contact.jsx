@@ -30,15 +30,15 @@ function Contact () {
             </div>
           </div>
           <div class="info_social">
-            <a href="">
+            {/* <a href="">
               <i class="fa fa-twitter" aria-hidden="true"></i>
-            </a>
-            <a href="">
+            </a> */}
+            <a href="www.linkedin.com/in/martin-castaneda-0a1068122">
               <i class="fa fa-linkedin" aria-hidden="true"></i>
             </a>
-            <a href="">
+            {/* <a href="">
               <i class="fa fa-instagram" aria-hidden="true"></i>
-            </a>
+            </a> */}
           </div>
         </div>
         {/* <div class="col-md-6 col-lg-3 info_col">
@@ -51,7 +51,7 @@ function Contact () {
             </p>
           </div>
         </div> */}
-        <div class="col-md-6 col-lg-2 mx-auto info_col">
+        {/* <div class="col-md-6 col-lg-2 mx-auto info_col">
           <div class="info_link_box">
             <h4>
               Links
@@ -72,8 +72,8 @@ function Contact () {
               
             </div>
           </div>
-        </div>
-        <div class="col-md-6 col-lg-3 info_col ">
+        </div> */}
+        {/* <div class="col-md-6 col-lg-3 info_col ">
           <h4>
             Contact
           </h4>
@@ -85,7 +85,7 @@ function Contact () {
               Submit
             </button>
           </form>
-        </div>
+        </div> */}
       </div>
     </div>
   </section>

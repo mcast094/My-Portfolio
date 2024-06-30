@@ -16,8 +16,8 @@ function HomePage() {
                                         My name is Martin Castaneda. I have a B.S in Computer Science from the University of La Verne, I am based out in Los Angeles, CA. Growing up I had a passion for technology and computers always fascinated me. This led me into interest with IT and with programming.
                                         </p>
                                         <div class="btn-box">
-                                            <a href="" class="btn1">
-                                                Read More
+                                            <a href="https://github.com/mcast094" class="btn1">
+                                                GitHub Link
                                             </a>
                                         </div>
                                     </div>
@@ -43,8 +43,8 @@ function HomePage() {
                                         The document-project-manager application provides a destination for documents/images to be uploaded for others to provide input. Users can create a profile to make posts and comment on them.
                                         </p>
                                         <div class="btn-box">
-                                            <a href="" class="btn1">
-                                                Read More
+                                            <a href="https://documentprojectmanager.onrender.com/" class="btn1">
+                                                Link to Project
                                             </a>
                                         </div>
                                     </div>
@@ -70,8 +70,8 @@ function HomePage() {
                                             Note Taker allows users to create and save notes when the application is launched.
                                         </p>
                                         <div class="btn-box">
-                                            <a href="" class="btn1">
-                                                Read More
+                                            <a href="https://note-taker20-767121de0bb8.herokuapp.com/" class="btn1">
+                                                Link to Project
                                             </a>
                                         </div>
                                     </div>
