@@ -9,37 +9,27 @@ function Contact () {
               Address
             </h4>
             <div class="contact_link_box">
-              <a href="">
+              
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>
                   Los Angeles, CA
                 </span>
-              </a>
-              <a href="">
+              
+              
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
                   Call (626) 825-5613
                 </span>
-              </a>
-              <a href="">
+              
+              
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
                   martincastaneda75@yahoo.com
                 </span>
-              </a>
+              
             </div>
           </div>
-          <div class="info_social">
-            {/* <a href="">
-              <i class="fa fa-twitter" aria-hidden="true"></i>
-            </a> */}
-            <a href="www.linkedin.com/in/martin-castaneda-0a1068122">
-              <i class="fa fa-linkedin" aria-hidden="true"></i>
-            </a>
-            {/* <a href="">
-              <i class="fa fa-instagram" aria-hidden="true"></i>
-            </a> */}
-          </div>
+          
         </div>
         {/* <div class="col-md-6 col-lg-3 info_col">
           <div class="info_detail">

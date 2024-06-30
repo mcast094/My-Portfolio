@@ -22,8 +22,8 @@ function AboutMe() {
                                         Education 
                                     </h5>
                                     <p>
-                                        Bachelor of Science: University of La Verne - Computer Science <br/>
-                                        Certificate: University of Irvine - <br/> Web Development
+                                        Bachelor of Science: University of La Verne <br/> - Computer Science <br/>
+                                        Certificate: University of Irvine <br/> - Web Development
                                     </p>
                                     {/* <a href="">
                                         Read More
@@ -41,7 +41,7 @@ function AboutMe() {
                                         Interests
                                     </h5>
                                     <p>
-                                        Programming
+                                        Programming <br/>
                                         Information Technology 
                                     </p>
                                     {/* <a href="">
@@ -60,7 +60,7 @@ function AboutMe() {
                                         IT
                                     </h5>
                                     <p>
-                                        I currently work as a Help Desk Analyst to with support. 
+                                        I currently work as a Help Desk Analyst working along side System administrators and Desktop Team. 
                                     </p>
                                     {/* <a href="">
                                         Read More
