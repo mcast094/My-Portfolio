@@ -68,17 +68,17 @@ function Project() {
                         <div class="col-lg-3 col-sm-6">
                             <div class="box ">
                                 <div class="img-box">
-                                    <img src="images/JATE.png" class="img1" alt="" />
+                                    <img src="images/arraysOfFitnessIMG.png" class="img1" alt="" />
                                 </div>
                                 <div class="detail-box">
                                     <h5>
-                                        Text Editor
+                                        Arrays of Fitness
                                     </h5>
                                     <p>
-                                        Just Another Text Editor
+                                        This apps purpose is to assist with workout tracking and to request personal trainers. 
                                     </p>
                                 </div>
-                                <a href="https://text-editor-x3tt.onrender.com/">
+                                <a href="https://arrays-of-fitness-5g93.onrender.com/">
                                     Link to Website
                                 </a>
                             </div>
